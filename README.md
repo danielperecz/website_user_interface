@@ -1,5 +1,5 @@
 # Assignment on creating a UI for a website
-For context, the website UI created is for educational purposes, specifically a university website for students. It was a group assignment, however the majority of the structure and layout is the result of my ideas, that is not to take anything away from my team member, we simply ended up choosing most of my ideas, he did contribute. The focus of the assignment was on the UI - the website wasn't supposed to be in a state ready to be used professionally.
+For context, the website UI created is for educational purposes, specifically a university website for students. It was a group assignment, however the majority of the structure and layout is the result of my ideas, that is not to take anything away from my team member, we simply ended up choosing most of my ideas - he did contribute. The focus of the assignment was on the UI - the website wasn't supposed to be in a state ready to be used professionally.
 
 ## The structure explained
 Keeping it as simple as possible was important in my opinion. The navigation bar consists of the `Home` page, `Modules`, `Course`, and `Profile` (there's also `Login`, but that was a pseudo login, it isn't functional due to using Google Sites).
